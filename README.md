@@ -56,4 +56,4 @@ Este proyecto es una web de música. Permite gestionar artistas, álbumes y canc
   - `buscar.html`: Página para buscar álbumes.
 
 ## **Autor**
-Este proyecto fue desarrollado como práctica para aprender Django y el patrón MVT.
+Este proyecto se desarrolló como práctica para aprender Django y el patrón MVT.
