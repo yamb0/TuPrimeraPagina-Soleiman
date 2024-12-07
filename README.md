@@ -1,4 +1,4 @@
-# Proyecto Django: Web de Música 🎵
+# Proyecto Django: Web de Música 
 
 Este proyecto es una web de música. Permite gestionar artistas, álbumes y canciones, además de buscar álbumes por su título. 
 
